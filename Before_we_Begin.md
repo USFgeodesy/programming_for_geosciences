@@ -9,7 +9,7 @@ What do I need?
 * matplotlib
 * numpy 
 * pandas
-* ipython notebook 
+* jupyter notebook 
 
 How do I get it?
 =======================================
@@ -35,8 +35,9 @@ Other options for installing Python are:
 * [Other options] (https://wiki.python.org/moin/PythonDistributions)
 
 Or alternatively you can install from your favorite package manager if you are using linux e.g.:
-  sudo apt-get install python-matplotlib <---ubuntu flavors
-  yum install ? <----open suse
+  `sudo apt-get install python-matplotlib` <---ubuntu flavors
+ 
+    or use [YaST] (https://en.opensuse.org/YaST_Software_Management) <----open suse
 
 Running the notes:
 =====================================
