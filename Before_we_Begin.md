@@ -35,18 +35,20 @@ Or alternatively you can install from your favorite package manager if you are u
   yum install ? <----open suse
 
 Running the notes:
+=====================================
+
 1. create a working directory
-  mkdir geopug 
-  cd geopug 
+  `mkdir geopug`
+  `cd geopug` 
   
 2. get the project from github
 
-  git clone .git
+  `git clone .git`
 
 
 3. start notebook enviornemnt
 
-  ipython notebook
+  `ipython notebook`
 
 4. click on the chapter you are interested in, should be completely interactive. 
 
