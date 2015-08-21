@@ -24,14 +24,17 @@ Go to [GIT] (http://git-scm.com/downloads) and pick the right download for your 
 
 ##Getting python going: 
 
-We recommend using [Enthought Canopy](https://www.enthought.com/products/canopy/) for easy installation of all the python dependencies. 
-Canopy provides a easy to use interface, most of the basic packages, a package manager, is
+We recommend using  [anaconda](https://store.continuum.io/cshop/anaconda/) for easy installation of all the python dependencies. 
+Anaconda provides a easy to use IDE through spyder, most of the basic packages, a package manager in conda, is
 free with a academic license, and is cross platform. Most of the needed dependendicies should be available in the free version of the software.
 
-Other options for installing Python are:
+If installing anaconda is difficult, or you are worried about messing up other installations on your machine, another option is [Wakira](https://www.
+wakira.io) . Wakaria runs an anaconda python enviornment in the cloud, along with a nice text editor and shell. It is essentially working computer
+in the cloud! We will post our assignment bundles on wakaria in order to follow the notebooks with all needed data.
 
-* [spyder] (https://pythonhosted.org/spyder/)
-* [anaconda](https://store.continuum.io/cshop/anaconda/)
+Other options for installing Python and needed packages are:
+
+* [Enthought Canopy](https://www.enthought.com/products/canopy/)
 * [Other options] (https://wiki.python.org/moin/PythonDistributions)
 
 Or alternatively you can install from your favorite package manager if you are using linux e.g.:
