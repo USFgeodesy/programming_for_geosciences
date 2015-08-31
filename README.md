@@ -6,6 +6,8 @@ Programming for Geosciences
 This is a course adapted from [Python for Geosciences](https://github.com/koldunovn/python_for_geosciences), and borrowing heavily from previous USF [GEOPUG] (https://usflearn.instructure.com/courses/1002131) courses, in order to make it a better suited for introductory scientific programming. 
 We hope to use python to build familiarity with the process and capabilities of computer programming, and highlight the usefullness of python for geosciences research. 
 
+The class will be from 1245 to 2pm in SCA 216
+
 Participants should see Before_we_Begin.md in order to aquire class software dependencies and an explanation of how to get the course materials on your machine. 
 
 We will cover:
