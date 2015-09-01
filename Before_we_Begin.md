@@ -28,8 +28,7 @@ We recommend using  [anaconda](https://store.continuum.io/cshop/anaconda/) for e
 Anaconda provides a easy to use IDE through spyder, most of the basic packages, a package manager in conda, is
 free with a academic license, and is cross platform. Most of the needed dependendicies should be available in the free version of the software.
 
-If installing anaconda is difficult, or you are worried about messing up other installations on your machine, another option is [Wakira](https://www.
-wakari.io) . Wakaria runs an anaconda python enviornment in the cloud, along with a nice text editor and shell. It is essentially working computer
+If installing anaconda is difficult, or you are worried about messing up other installations on your machine, another option is [Wakira](https://www.wakari.io) . Wakaria runs an anaconda python enviornment in the cloud, along with a nice text editor and shell. It is essentially working computer
 in the cloud! We will post our assignment bundles on wakaria in order to follow the notebooks with all needed data.
 
 Other options for installing Python and needed packages are:
