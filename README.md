@@ -40,7 +40,7 @@ You can look at
 
 [00 Why programming and why python?](http://nbviewer.ipython.org/github/USFgeodesy/programming_for_geosciences/blob/master/00%20-%20Why%20Programming%20and%20why%20Python.v3.ipynb)
 
-[01 Data Types]
+[01 Data Types](http://nbviewer.ipython.org/github/USFgeodesy/programming_for_geosciences/blob/master/01%20-%20Data%20Types.ipynb)
 
 [02 For, IF, While]
 

@@ -1,0 +1,23 @@
+
+See git tutorial for useful hints
+
+1. Create a new folder for this assignment within your GEOPUG directory
+2. Add this folder to your git repository
+3. Write a python script that prints 'Hello World' to the screen
+4. Commit this script to your script to your git repository
+5. Change the script so that it prints hellow world capatilized and vertically
+to a file, for an example see the first entry on the canvas page:
+H
+E
+L
+L
+O
+
+W
+O
+R
+L
+D
+6. Commit this new version to your git repository
+7. Add these commits to your github repository page and chack the differences. 
+

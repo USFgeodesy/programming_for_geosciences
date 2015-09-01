@@ -1,0 +1,41 @@
+1. In terminal window create a directory (folder) for your project:
+
+>mkdir my_proj
+
+2. Move into this directory Initialize your git repository
+
+>git init 
+
+Your folder is now being tracked
+
+3. Create some files in your repository
+
+4. Add the files so that fit will track them
+
+>git add . 
+
+the period is important
+
+5. Check the status of the repository to see what needs to be tracked
+
+>git status
+
+6.Commit your changes
+git commit -m 'This is what I changed'
+
+The '-m' is a shortcut to add a comment to what you have done, if you dont use
+-m then a text editor will open up for you to write comments
+
+IF you want to post to your Github page:
+1. Login to your github page 
+2. click +new repository
+3.name it 
+test
+4. add your exsisting git repostory to gitub
+cd my_proj
+git remote add origin https://github.com/username/test.git
+git push -u origin master
+5. You should now see your code in your folder on github
+
+
+ 
