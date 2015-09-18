@@ -1,0 +1,20 @@
+The assignment for week 3 is reading files and using modules:
+
+See week 2 on the geopug canvas page for some helful examples. 
+
+A provided text file 18593LakeHanna.txt contains rain gauge data for Tampa. 
+Read the text file into the script and plot daily rainfall levels. 
+
+For reading the text you probably want to check out numpy loadtxt or genfromtxt
+
+For dealing with the dates, check out python datetime or pandas modules
+
+For plotting you probably want to use the matplotlib module
+
+There is a second text file in the folder, with global volcanic events. This 
+file will be trickier to read because there are lots of data gaps. Try and plot
+the global volcanic eruptions by VEI on a map. The matplotlib.basemap module is a good place to start, other options include cartopy and GMTpy. 
+
+
+
+
