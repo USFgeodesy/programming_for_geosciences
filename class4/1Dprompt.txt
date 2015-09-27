@@ -1,0 +1,30 @@
+A 1-D Model:
+Log Wind Profile
+
+PROMPT:
+Laminar wind speed is expected to increase in a logarithmic fashion above the surface of the Earth. Roughness of the ground effectively retards the speed of the wind at low altitudes; regions of low roughness, such as the sea, enable high atmospheric wind speeds to be observed close to the ground, while regions of high roughness, such as urban areas, keep high wind speeds from approaching the surface. Theoretically, based on the surface roughness there is a "Characteristic Roughness Height", z0, at which wind speed is effectively 0. Using a single measurement with z0 enables a rough approximation of wind speed in a vertical column, following the equation:
+v(z) = v(z1)*ln(z/z0)/ln(z1/z0)
+where z0 is the roughness height, z1 is the measurement altitude, v(z1) is the measured wind velocity, z is the height being analyzed, and v(z) is the velocity at that height.
+
+ASSIGNMENT:
+Given the following information, construct and plot a 1-D wind speed model, giving wind velocity for every 10 meters from 10-150 meters in altitude.
+
+height of measurement: 5 m
+wind velocity : 8 m/s
+land cover type: sage desert field area
+
+Roughness Height Table
+z0        Land Cover Description
+----------------------------------------
+0.0002 m	Water surfaces: seas and Lakes
+0.0024 m	Open terrain with smooth surface, e.g. concrete, airport runways, mown grass etc.
+0.03 m	  Open agricultural land without fences and hedges; maybe some far apart buildings and very gentle hills
+0.055 m	  Agricultural land with a few buildings and 8 m high hedges seperated by more than 1 km
+0.1 m	    Agricultural land with a few buildings and 8 m high hedges seperated by approx. 500 m
+0.2 m	    Agricultural land with many trees, bushes and plants, or 8 m high hedges seperated by approx. 250 m
+0.4 m	    Towns, villages, agricultural land with many or high hedges, forests and very rough and uneven terrain
+0.6 m	    Large towns with high buildings
+1.6 m	    Large cities with high buildings and skyscrapers
+
+You can check your answer using the wind speed calculator where the above data was drawn from:
+http://wind-data.ch/tools/profile.php

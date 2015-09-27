@@ -1,0 +1,30 @@
+A 2-D Model:
+Log Wind Profile
+
+PROMPT:
+By modeling the wind profile for air columns above various surface roughnesses, wind speeds at different altitudes can be compared. The characteristic roughness height that governs the wind profile model developed in the 1-D model changes by 4 orders of magnitude. This means that surface wind velocity should change substantially due to surface roughness.
+
+Assume a weather balloon measures wind speed at 200 m altitude over various regions with different roughnesses. If the balloon were to measure the same wind speed at these locations, what would the wind profile be as one ascended from the ground to the balloon's height?
+
+ASSIGNMENT:
+Given the following information, construct and plot a 2-D wind speed model, giving wind velocity for 1) every 10 meters from 10-150 meters in altitude and 2) the range of characteristic roughness heights in the table below. (HINT: use the log of roughness height for plotting)
+
+height of measurement: 200 m
+wind velocity :  15 m/s
+
+Roughness Height Table
+z0        Land Cover Description
+----------------------------------------
+0.0002 m	Water surfaces: seas and Lakes
+0.0024 m	Open terrain with smooth surface, e.g. concrete, airport runways, mown grass etc.
+0.03 m	  Open agricultural land without fences and hedges; maybe some far apart buildings and very gentle hills
+0.055 m	  Agricultural land with a few buildings and 8 m high hedges seperated by more than 1 km
+0.1 m	    Agricultural land with a few buildings and 8 m high hedges seperated by approx. 500 m
+0.2 m	    Agricultural land with many trees, bushes and plants, or 8 m high hedges seperated by approx. 250 m
+0.4 m	    Towns, villages, agricultural land with many or high hedges, forests and very rough and uneven terrain
+0.6 m	    Large towns with high buildings
+1.6 m	    Large cities with high buildings and skyscrapers
+
+
+You can check your answers using the wind speed calculator where the above data was drawn from:
+http://wind-data.ch/tools/profile.php
